@@ -1,0 +1,56 @@
+/******************************Top brands Heading*************************/
+.heading-TopBrand {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #740623;
+}
+
+/******************************Cards height & width*************************/
+.card-img,
+.card-img-bottom,
+.card-img-top {
+  height: 250px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+/******************************Card Body*************************/
+.card-body {
+  padding: 4px;
+}
+
+/******************************Font size of cards info*************************/
+.h5,
+h5 {
+  font-size: 14px;
+  color: black;
+  text-align: center;
+}
+
+/******************************Card text*************************/
+.card-text:last-child {
+  text-align: center;
+  color: #740623;
+  text-decoration: none !important;
+}
+
+/******************************Button View All*************************/
+
+.btn-success {
+  background-color: #740623;
+  border-color: #740623;
+  color: white;
+}
+
+.btn {
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 6px;
+}
+
+.btn:not(:disabled):not(.disabled):hover {
+    background-color: #740623;
+}
+
